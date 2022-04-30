@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[![Instagram Follow](https://img.shields.io/instagram/follow/anvesh.27?label=Follow)](https://instagram.com/intent/follow?screen_name=anvesh.27)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anvesh_27?label=Follow)](https://twitter.com/intent/follow?screen_name=anvesh_27)
 
 ## 👦 about me
