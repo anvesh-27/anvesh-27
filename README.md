@@ -22,6 +22,7 @@
 <img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/68557696/149619902-6c39bd93-9494-44a4-91f9-e9b6d2139899.png" width="50px"></img>
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" width="50px"></img>
+<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" width="50px"></img>
 
 ## 🤝 connect with me
 <a href="https://twitter.com/anvesh_27">
