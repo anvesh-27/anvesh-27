@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Instagram Follow](https://img.shields.io/instagram/follow/anvesh.27?label=Follow)](https://instagram.com/intent/follow?screen_name=anvesh.27)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anvesh_27?label=Follow)](https://twitter.com/intent/follow?screen_name=anvesh_27)
 
 ## 👦 about me
@@ -14,9 +13,9 @@
 - </> learning GUI Development
 - 🔨 building projects
 - 🕷️ meeting new people in discord
-
 - 🔭 I’m currently working on Gideon
 - 🤔 I’m looking for help with GUI Develpoment
+- 👯 I’m looking to collaborate on [Gideon](https://github.com/anvesh-27/Gideon)
 
 ## 👨‍💻 technologies I use
 <img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
