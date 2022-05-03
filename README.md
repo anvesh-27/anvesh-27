@@ -12,7 +12,7 @@
 - </> learning GUI Development
 - 🔨 building projects
 - 🕷️ meeting new people in discord
-- 🔭 I’m currently working on Gideon
+- 🔭 I’m currently working on [Gideon](https://github.com/anvesh-27/Gideon)
 - 🤔 I’m looking for help with GUI Develpoment
 - 👯 I’m looking to collaborate on [Gideon](https://github.com/anvesh-27/Gideon)
 
