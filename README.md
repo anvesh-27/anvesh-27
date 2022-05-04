@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/anvesh-27?label=Follow&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anvesh_27?label=Follow)](https://twitter.com/intent/follow?screen_name=anvesh_27)
 
-## 👦 about me
+## 👦 About me
 - 👽 14 years old
 - 🏫 High school student
 - 🌏 into automation
