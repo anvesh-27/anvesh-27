@@ -29,11 +29,8 @@
 </p>
 
 ## Stats
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anvesh-27&show_icons=true&include_all_commits=true&hide_border=true&bg_color=22272e&color=9BE8A8&text_color=2FBD90&line=9BE8A8&point=40C363">
 <a href="#"><img src="http://github-readme-streak-stats.herokuapp.com?user=anvesh-27&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463"></a>
-</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvesh-27&exclude_repo=dotfiles&hide_title=true&hide=html,css&layout=compact&bg_color=22272E&text_color=2FBD90&hide_border=true" /></p>
 <img src="https://activity-graph.herokuapp.com/graph?username=anvesh-27&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
 
 ## 🤝 Connect with me
