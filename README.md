@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+![GitHub followers](https://img.shields.io/github/followers/anvesh-27?label=Follow&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anvesh_27?label=Follow)](https://twitter.com/intent/follow?screen_name=anvesh_27)
 
 ## 👦 about me
