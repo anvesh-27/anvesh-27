@@ -25,7 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px"></img>
 <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" width="50px"></img>
 <img src="https://github.com/baoboa/pyqt5/blob/master/examples/widgets/icons/images/designer.png" width="50px"></img>
-<img src="https://user-images.githubusercontent.com/69871258/166647912-3e0685e6-b1fb-4ae1-a0af-568682dec8f7.jpeg" width="50px"></img>
 </p>
 
 ## Stats
