@@ -7,7 +7,8 @@
 - 🏫 High school student
 - 🌏 into automation
 - ⚡ Fun fact: Started coding at the age of 10
-## 🛠️ what am doing right now
+
+## 🛠️ What am doing right now
 - 📚 studying
 - </> learning GUI Development
 - 🔨 building projects
@@ -16,13 +17,13 @@
 - 🤔 I’m looking for help with GUI Develpoment
 - 👯 I’m looking to collaborate on [Gideon](https://github.com/anvesh-27/Gideon)
 
-## 👨‍💻 technologies I use
+## 👨‍💻 My stack
 <img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
 <img src="https://user-images.githubusercontent.com/68557696/149619902-6c39bd93-9494-44a4-91f9-e9b6d2139899.png" width="50px"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px"></img>
 <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" width="50px"></img>
 
-## 🤝 connect with me
+## 🤝 Connect with me
 <a href="https://twitter.com/anvesh_27">
 <img src="https://user-images.githubusercontent.com/68557696/149621771-ccfdd725-d194-42d6-9668-f73d2043b6c4.png" width="35px">
 </a>  @anvesh_27<br>
