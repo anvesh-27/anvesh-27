@@ -10,7 +10,7 @@
 - ⚡ Fun fact: Started coding at the age of 10
 
 ## 🛠️ What am doing right now
-- 📚 studying
+- 📚 studying for boards
 - </> learning GUI Development
 - 🔨 building projects
 - 🕷️ meeting new people in discord
