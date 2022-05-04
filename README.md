@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px"></img>
 <img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" width="50px"></img>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=pybash1&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anvesh-27&exclude_repo=dotfiles&hide_title=true&hide=html,css&layout=compact&bg_color=22272E&text_color=2FBD90&hide_border=true" /></p>
 
 ## 🤝 Connect with me
 <a href="https://twitter.com/anvesh_27">
