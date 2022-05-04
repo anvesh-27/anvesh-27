@@ -21,6 +21,9 @@
 <img src="https://user-images.githubusercontent.com/68557696/149619902-6c39bd93-9494-44a4-91f9-e9b6d2139899.png" width="50px"></img>
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" width="50px"></img>
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" width="50px"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px"></img>
+<img src="https://raw.githubusercontent.com/github/explore/379d49236d826364be968345e0a085d044108cff/topics/windows/windows.png" width="50px"></img>
+
 ## 🤝 connect with me
 <a href="https://twitter.com/anvesh_27">
 <img src="https://user-images.githubusercontent.com/68557696/149621771-ccfdd725-d194-42d6-9668-f73d2043b6c4.png" width="35px">
