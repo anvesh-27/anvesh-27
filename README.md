@@ -27,6 +27,8 @@
 <img src="https://github.com/baoboa/pyqt5/blob/master/examples/widgets/icons/images/designer.png" width="50px"></img>
 <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="50px"></img>
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="50px"></img>
+<img src="https://user-images.githubusercontent.com/69871258/167261510-2a7e3f98-3457-4518-95c0-488d02669e13.png" width="50px"></img>
+
 </p>
 
 ## Stats
