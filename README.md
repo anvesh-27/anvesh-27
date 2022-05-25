@@ -36,6 +36,9 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=anvesh-27&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true">
 
 ## 🤝 Connect with me
+<a href="https://www.instagram.com/anvesh.27/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="35px">
+</a> anvesh.27 <br>
 <a href="https://twitter.com/anvesh_27">
 <img src="https://user-images.githubusercontent.com/68557696/149621771-ccfdd725-d194-42d6-9668-f73d2043b6c4.png" width="35px">
 </a>  @anvesh_27<br>
