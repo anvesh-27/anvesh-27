@@ -10,9 +10,9 @@
 - ⚡ Fun fact: Started coding at the age of 10
 
 ## 🛠️ What am doing right now
-- 📚 studying for boards
-- </> learning GUI Development
-- 🔨 building projects
+- 📚 Preparing for NTSE
+- </> Learning GUI Development
+- 🔨 Building projects
 - 🕷️ meeting new people in discord
 - 🔭 I’m currently working on [Gideon](https://github.com/anvesh-27/Gideon)
 - 🤔 I’m looking for help with GUI Develpoment
