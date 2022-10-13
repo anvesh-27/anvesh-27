@@ -11,12 +11,12 @@
 
 ## 🛠️ What am doing right now
 - 📚 Preparing for NTSE
-- </> Learning GUI Development
+- </> Learning Full Stack Development
 - 🔨 Building projects
 - 🕷️ meeting new people in discord
-- 🔭 I’m currently working on [Gideon](https://github.com/anvesh-27/Gideon)
-- 🤔 I’m looking for help with GUI Develpoment
-- 👯 I’m looking to collaborate on [Gideon](https://github.com/anvesh-27/Gideon)
+- 🔭 I’m currently working on 
+- 🤔 I’m looking for help with CSS
+- 👯 I’m looking to collaborate on 
 
 ## 👨‍💻 My stack
 <p>
