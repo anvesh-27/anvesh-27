@@ -4,10 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/anvesh_27?label=Follow)](https://twitter.com/intent/follow?screen_name=anvesh_27)
 
 ## 👦 About me
-- 👽 14 years old
+- 👽 15 years old
 - 🏫 High school student
 - 🌏 into automation
-- ⚡ Fun fact: Started coding at the age of 10
 
 ## 🛠️ What am doing right now
 - 📚 Preparing for NTSE
