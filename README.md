@@ -3,20 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/anvesh-27?label=Follow&style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/anvesh_27?label=Follow)](https://twitter.com/intent/follow?screen_name=anvesh_27)
 
-## 👦 About me
-- 👽 15 years old
-- 🏫 High school student
-- 🌏 into automation
-
-## 🛠️ What am doing right now
-- 📚 Preparing for NTSE
-- </> Learning Full Stack Development
-- 🔨 Building projects
-- 🕷️ meeting new people in discord
-- 🔭 I’m currently working on 
-- 🤔 I’m looking for help with CSS
-- 👯 I’m looking to collaborate on 
-
 ## 👨‍💻 My stack
 <p>
 <img src="https://user-images.githubusercontent.com/68557696/149619691-6ae25701-986e-4e7d-907b-8f4a5940765f.png" width="50px"></img>
