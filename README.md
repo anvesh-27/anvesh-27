@@ -64,4 +64,4 @@ More projects will be added as I continue learning.
 ## 📫 Connect
 
 - GitHub: https://github.com/anvesh-27
-- LinkedIn: linkedin.com/in/anvesh-katiyar-b12b15295/
+- LinkedIn: https://linkedin.com/in/anvesh-katiyar-b12b15295
